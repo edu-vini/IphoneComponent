@@ -1,3 +1,4 @@
 # IphoneComponet
-Implementaçãom de Interfaces em Java atráves de um UML.
+Implementação de Interfaces em Java atráves de um UML.
+
 ![Diagrama de Classes](uml.jpeg)
